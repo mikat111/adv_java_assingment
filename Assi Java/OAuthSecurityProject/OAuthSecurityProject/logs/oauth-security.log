@@ -1,0 +1,210 @@
+2026-09-14T03:19:21.290+06:00  INFO 2364 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 2364 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:19:21.294+06:00  INFO 2364 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:19:23.111+06:00  INFO 2364 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-09-14T03:19:23.142+06:00  INFO 2364 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:19:23.143+06:00  INFO 2364 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:19:23.228+06:00  INFO 2364 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1838 ms
+2026-09-14T03:19:24.672+06:00  WARN 2364 --- [oauth-security] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-09-14T03:19:24.689+06:00  INFO 2364 --- [oauth-security] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-09-14T03:19:24.706+06:00 ERROR 2364 --- [oauth-security] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2026-09-14T03:22:46.995+06:00  INFO 8056 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 8056 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:22:47.001+06:00  INFO 8056 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:22:48.284+06:00  INFO 8056 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8080 (http)
+2026-09-14T03:22:48.301+06:00  INFO 8056 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:22:48.302+06:00  INFO 8056 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:22:48.359+06:00  INFO 8056 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1280 ms
+2026-09-14T03:22:49.681+06:00  WARN 8056 --- [oauth-security] [main] ConfigServletWebServerApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2026-09-14T03:22:49.695+06:00  INFO 8056 --- [oauth-security] [main] .s.b.a.l.ConditionEvaluationReportLogger : 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2026-09-14T03:22:49.705+06:00 ERROR 8056 --- [oauth-security] [main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2026-09-14T03:23:29.593+06:00  INFO 2068 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 2068 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:23:29.604+06:00  INFO 2068 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:23:31.042+06:00  INFO 2068 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:23:31.057+06:00  INFO 2068 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:23:31.057+06:00  INFO 2068 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:23:31.125+06:00  INFO 2068 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1435 ms
+2026-09-14T03:23:31.886+06:00  INFO 2068 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:23:31.892+06:00  INFO 2068 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 3.33 seconds (process running for 3.91)
+2026-09-14T03:23:31.897+06:00  INFO 2068 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:24:11.911+06:00  INFO 2068 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:24:11.912+06:00  INFO 2068 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:24:11.915+06:00  INFO 2068 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-09-14T03:28:11.033+06:00  INFO 2068 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:28:11.040+06:00  INFO 2068 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:28:17.362+06:00  INFO 11304 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 11304 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:28:17.365+06:00  INFO 11304 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:28:18.564+06:00  INFO 11304 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:28:18.582+06:00  INFO 11304 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:28:18.582+06:00  INFO 11304 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:28:18.654+06:00  INFO 11304 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1225 ms
+2026-09-14T03:28:19.818+06:00  INFO 11304 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:28:19.830+06:00  INFO 11304 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 3.145 seconds (process running for 4.079)
+2026-09-14T03:28:19.837+06:00  INFO 11304 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:28:26.934+06:00  INFO 11304 --- [oauth-security] [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:28:26.934+06:00  INFO 11304 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:28:26.937+06:00  INFO 11304 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2026-09-14T03:28:53.069+06:00  INFO 11304 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:28:53.074+06:00  INFO 11304 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:28:57.385+06:00  INFO 3672 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 3672 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:28:57.387+06:00  INFO 3672 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:28:58.224+06:00  INFO 3672 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:28:58.234+06:00  INFO 3672 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:28:58.235+06:00  INFO 3672 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:28:58.284+06:00  INFO 3672 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 841 ms
+2026-09-14T03:28:58.978+06:00  INFO 3672 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:28:58.983+06:00  INFO 3672 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 2.079 seconds (process running for 2.508)
+2026-09-14T03:28:58.986+06:00  INFO 3672 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:29:42.790+06:00  INFO 3672 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:29:42.792+06:00  INFO 3672 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:29:42.796+06:00  INFO 3672 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-09-14T03:31:21.764+06:00  INFO 3672 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:31:21.772+06:00  INFO 3672 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:34:13.611+06:00  INFO 14572 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 14572 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:34:13.616+06:00  INFO 14572 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:34:14.850+06:00  INFO 14572 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:34:14.899+06:00  INFO 14572 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:34:14.899+06:00  INFO 14572 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:34:14.973+06:00  INFO 14572 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1288 ms
+2026-09-14T03:34:15.851+06:00  INFO 14572 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:34:15.856+06:00  INFO 14572 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 2.81 seconds (process running for 3.39)
+2026-09-14T03:34:15.859+06:00  INFO 14572 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:34:23.616+06:00  INFO 14572 --- [oauth-security] [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:34:23.618+06:00  INFO 14572 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:34:23.625+06:00  INFO 14572 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 6 ms
+2026-09-14T03:35:20.199+06:00  INFO 14572 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:35:20.206+06:00  INFO 14572 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:35:29.398+06:00  INFO 8252 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 8252 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:35:29.407+06:00  INFO 8252 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:35:30.820+06:00  INFO 8252 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:35:30.845+06:00  INFO 8252 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:35:30.846+06:00  INFO 8252 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:35:30.921+06:00  INFO 8252 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1436 ms
+2026-09-14T03:35:31.711+06:00  INFO 8252 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:35:31.716+06:00  INFO 8252 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 2.949 seconds (process running for 3.534)
+2026-09-14T03:35:31.720+06:00  INFO 8252 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:35:45.176+06:00  INFO 8252 --- [oauth-security] [http-nio-8081-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:35:45.176+06:00  INFO 8252 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:35:45.180+06:00  INFO 8252 --- [oauth-security] [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-09-14T03:37:43.801+06:00  INFO 8252 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:37:43.806+06:00  INFO 8252 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:49:32.874+06:00  INFO 3684 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Starting OAuthSecurityProjectApplication using Java 26.0.2.1 with PID 3684 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:49:32.877+06:00  INFO 3684 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:49:33.926+06:00  INFO 3684 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:49:33.942+06:00  INFO 3684 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:49:33.942+06:00  INFO 3684 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:49:34.015+06:00  INFO 3684 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 1061 ms
+2026-09-14T03:49:34.832+06:00  INFO 3684 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:49:34.837+06:00  INFO 3684 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Started OAuthSecurityProjectApplication in 2.54 seconds (process running for 3.128)
+2026-09-14T03:49:34.840+06:00  INFO 3684 --- [oauth-security] [main] c.e.O.OAuthSecurityProjectApplication    : Application started successfully
+2026-09-14T03:50:49.768+06:00  INFO 3684 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:50:49.770+06:00  INFO 3684 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:50:49.774+06:00  INFO 3684 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-09-14T03:52:18.160+06:00  INFO 3684 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:52:18.164+06:00  INFO 3684 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T03:53:40.208+06:00  INFO 9896 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Starting OAuthSecurityProject using Java 26.0.2.1 with PID 9896 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T03:53:40.212+06:00  INFO 9896 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T03:53:41.137+06:00  INFO 9896 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T03:53:41.149+06:00  INFO 9896 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T03:53:41.150+06:00  INFO 9896 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T03:53:41.204+06:00  INFO 9896 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 932 ms
+2026-09-14T03:53:41.609+06:00  INFO 9896 --- [oauth-security] [main] c.e.O.Security.SecurityConfig            : Spring Security configuration completed
+2026-09-14T03:53:41.843+06:00  INFO 9896 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T03:53:41.846+06:00  INFO 9896 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Started OAuthSecurityProject in 2.212 seconds (process running for 2.744)
+2026-09-14T03:53:41.849+06:00  INFO 9896 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Application started successfully
+2026-09-14T03:53:45.376+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T03:53:45.377+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T03:53:45.381+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2026-09-14T03:53:57.627+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-4] c.e.O.Logging.SecurityLogging            : Successful login: 100711394340092547413
+2026-09-14T03:53:57.638+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-5] c.e.O.Controllers.Dashboard              : Protected endpoint /dashboard accessed
+2026-09-14T03:53:57.638+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-5] c.e.O.Controllers.Dashboard              : Dashboard opened by user: mikatmomin4@gmail.com
+2026-09-14T03:54:04.334+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Logging.SecurityLogging            : User logout: 100711394340092547413
+2026-09-14T03:55:25.619+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-2] c.e.O.Logging.SecurityLogging            : Successful login: 110370077753364097572
+2026-09-14T03:55:25.623+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-3] c.e.O.Controllers.Dashboard              : Protected endpoint /dashboard accessed
+2026-09-14T03:55:25.624+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-3] c.e.O.Controllers.Dashboard              : Dashboard opened by user: amirhamza864@gmail.com
+2026-09-14T03:55:31.627+06:00  INFO 9896 --- [oauth-security] [http-nio-8081-exec-5] c.e.O.Logging.SecurityLogging            : User logout: 110370077753364097572
+2026-09-14T03:55:40.760+06:00  INFO 9896 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T03:55:40.767+06:00  INFO 9896 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T04:05:12.418+06:00  INFO 12128 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Starting OAuthSecurityProject using Java 26.0.2.1 with PID 12128 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T04:05:12.422+06:00  INFO 12128 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T04:05:13.248+06:00  INFO 12128 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T04:05:13.261+06:00  INFO 12128 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T04:05:13.261+06:00  INFO 12128 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T04:05:13.307+06:00  INFO 12128 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 829 ms
+2026-09-14T04:05:13.690+06:00  INFO 12128 --- [oauth-security] [main] c.e.O.Security.SecurityConfig            : Spring Security configuration completed
+2026-09-14T04:05:13.979+06:00  INFO 12128 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T04:05:13.984+06:00  INFO 12128 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Started OAuthSecurityProject in 2.02 seconds (process running for 2.494)
+2026-09-14T04:05:13.988+06:00  INFO 12128 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Application started successfully
+2026-09-14T04:05:41.642+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T04:05:41.642+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T04:05:41.642+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-09-14T04:05:53.140+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-4] c.e.O.Logging.SecurityLogging            : Successful login: 100711394340092547413
+2026-09-14T04:05:53.153+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-6] c.e.O.Controllers.Dashboard              : Protected endpoint /dashboard accessed
+2026-09-14T04:05:53.154+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-6] c.e.O.Controllers.Dashboard              : Dashboard opened by user: mikatmomin4@gmail.com
+2026-09-14T04:05:56.469+06:00  INFO 12128 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Logging.SecurityLogging            : User logout: 100711394340092547413
+2026-09-14T04:06:08.924+06:00  INFO 12128 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T04:06:08.927+06:00  INFO 12128 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T04:08:03.098+06:00  INFO 11084 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Starting OAuthSecurityProject using Java 26.0.2.1 with PID 11084 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T04:08:03.101+06:00  INFO 11084 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T04:08:03.817+06:00  INFO 11084 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T04:08:03.830+06:00  INFO 11084 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T04:08:03.830+06:00  INFO 11084 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T04:08:03.875+06:00  INFO 11084 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 725 ms
+2026-09-14T04:08:04.175+06:00  INFO 11084 --- [oauth-security] [main] c.e.O.Security.SecurityConfig            : Spring Security configuration completed
+2026-09-14T04:08:04.359+06:00  INFO 11084 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T04:08:04.366+06:00  INFO 11084 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Started OAuthSecurityProject in 1.723 seconds (process running for 2.131)
+2026-09-14T04:08:04.369+06:00  INFO 11084 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Application started successfully
+2026-09-14T04:08:09.496+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T04:08:09.496+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T04:08:09.496+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2026-09-14T04:08:21.963+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-3] c.e.O.Logging.SecurityLogging            : Successful login: 100711394340092547413
+2026-09-14T04:08:21.976+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Controllers.Dashboard              : Protected endpoint /dashboard accessed
+2026-09-14T04:08:21.976+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Controllers.Dashboard              : Dashboard opened by user: mikatmomin4@gmail.com
+2026-09-14T04:08:26.015+06:00  INFO 11084 --- [oauth-security] [http-nio-8081-exec-9] c.e.O.Logging.SecurityLogging            : User logout: 100711394340092547413
+2026-09-14T04:09:08.578+06:00  INFO 11084 --- [oauth-security] [SpringApplicationShutdownHook] o.s.boot.tomcat.GracefulShutdown         : Commencing graceful shutdown. Waiting for active requests to complete
+2026-09-14T04:09:08.582+06:00  INFO 11084 --- [oauth-security] [tomcat-shutdown] o.s.boot.tomcat.GracefulShutdown         : Graceful shutdown complete
+2026-09-14T18:21:04.060+06:00  INFO 11584 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Starting OAuthSecurityProject using Java 26.0.2.1 with PID 11584 (C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject\target\classes started by User in C:\Users\User\OneDrive\Documents\Desktop\Assi Java\OAuthSecurityProject\OAuthSecurityProject)
+2026-09-14T18:21:04.068+06:00  INFO 11584 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : No active profile set, falling back to 1 default profile: "default"
+2026-09-14T18:21:07.254+06:00  INFO 11584 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat initialized with port 8081 (http)
+2026-09-14T18:21:07.325+06:00  INFO 11584 --- [oauth-security] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2026-09-14T18:21:07.325+06:00  INFO 11584 --- [oauth-security] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/11.0.24]
+2026-09-14T18:21:07.421+06:00  INFO 11584 --- [oauth-security] [main] b.w.c.s.WebApplicationContextInitializer : Root WebApplicationContext: initialization completed in 3245 ms
+2026-09-14T18:21:08.588+06:00  INFO 11584 --- [oauth-security] [main] c.e.O.Security.SecurityConfig            : Spring Security configuration completed
+2026-09-14T18:21:09.180+06:00  INFO 11584 --- [oauth-security] [main] o.s.boot.tomcat.TomcatWebServer          : Tomcat started on port 8081 (http) with context path '/'
+2026-09-14T18:21:09.189+06:00  INFO 11584 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Started OAuthSecurityProject in 6.075 seconds (process running for 6.974)
+2026-09-14T18:21:09.195+06:00  INFO 11584 --- [oauth-security] [main] c.e.O.OAuthSecurityProject               : Application started successfully
+2026-09-14T18:21:54.387+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2026-09-14T18:21:54.390+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2026-09-14T18:21:54.394+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2026-09-14T18:22:12.374+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-4] c.e.O.Logging.SecurityLogging            : Successful login: 100711394340092547413
+2026-09-14T18:22:12.398+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Controllers.Dashboard              : Protected endpoint /dashboard accessed
+2026-09-14T18:22:12.398+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-7] c.e.O.Controllers.Dashboard              : Dashboard opened by user: mikatmomin4@gmail.com
+2026-09-14T18:22:43.437+06:00  INFO 11584 --- [oauth-security] [http-nio-8081-exec-8] c.e.O.Logging.SecurityLogging            : User logout: 100711394340092547413

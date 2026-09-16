@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Dashboard</title>
+
+    <link rel="stylesheet"
+          href="/css/style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <h1>Dashboard</h1>
+
+        <div class="authenticated">
+
+            ✓ Authenticated
+
+        </div>
+
+        <div class="info">
+
+            <label>Name</label>
+
+            <p th:text="${name}">
+                User Name
+            </p>
+
+        </div>
+
+        <div class="info">
+
+            <label>Email</label>
+
+            <p th:text="${email}">
+                user@email.com
+            </p>
+
+        </div>
+
+        <div class="info">
+
+            <label>
+                Authentication Status
+            </label>
+
+            <p
+                    th:text="${authenticated
+                    ? 'Authenticated'
+                    : 'Not Authenticated'}">
+
+                Authenticated
+
+            </p>
+
+        </div>
+
+        <form
+                action="/logout"
+                method="post">
+
+            <button
+                    type="submit"
+                    class="btn logout-btn">
+
+                Logout
+
+            </button>
+
+        </form>
+
+    </div>
+
+</div>
+
+</body>
+
+</html>
